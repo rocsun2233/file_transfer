@@ -1,0 +1,20 @@
+{
+  "version": "0.1.0",
+  "build_date": "2026-04-09",
+  "platforms": [
+    "windows",
+    "linux",
+    "macos"
+  ],
+  "android": {
+    "mode": "browser-only",
+    "note": "Android is currently supported through browser access only and is not packaged natively."
+  },
+  "features": [
+    "desktop workbench",
+    "lan discovery",
+    "trusted peer pairing",
+    "tcp file transfer",
+    "web guest access"
+  ]
+}

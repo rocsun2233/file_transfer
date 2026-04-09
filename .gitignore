@@ -1,0 +1,9 @@
+.build/
+.hybrid_transfer/
+.codex/
+dist/
+myenv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
